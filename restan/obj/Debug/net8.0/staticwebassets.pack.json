@@ -1,0 +1,869 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\css\\styles.css",
+      "PackagePath": "staticwebassets\\assets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\assets\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\assets\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\assets\\js\\scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\animate.min.css",
+      "PackagePath": "staticwebassets\\css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\bootstrap-datepicker3.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker3.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\flaticon-set.css",
+      "PackagePath": "staticwebassets\\css\\flaticon-set.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\helper.css",
+      "PackagePath": "staticwebassets\\css\\helper.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\shop.css",
+      "PackagePath": "staticwebassets\\css\\shop.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\unit-test.css",
+      "PackagePath": "staticwebassets\\css\\unit-test.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\css\\validnavs.css",
+      "PackagePath": "staticwebassets\\css\\validnavs.css"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-thin-100.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-thin-100.woff",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\fa-thin-100.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fa-thin-100.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\fonts\\flaticon.woff2",
+      "PackagePath": "staticwebassets\\fonts\\flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\100x100.png",
+      "PackagePath": "staticwebassets\\img\\100x100.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\1200x1350.png",
+      "PackagePath": "staticwebassets\\img\\1200x1350.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\1500x1000.png",
+      "PackagePath": "staticwebassets\\img\\1500x1000.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\1500x700.png",
+      "PackagePath": "staticwebassets\\img\\1500x700.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\1500x800.png",
+      "PackagePath": "staticwebassets\\img\\1500x800.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\1500x900.png",
+      "PackagePath": "staticwebassets\\img\\1500x900.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\150x80.png",
+      "PackagePath": "staticwebassets\\img\\150x80.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\2440x1578.jpg",
+      "PackagePath": "staticwebassets\\img\\2440x1578.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\556x1010.jpg",
+      "PackagePath": "staticwebassets\\img\\556x1010.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\556x1010.png",
+      "PackagePath": "staticwebassets\\img\\556x1010.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\600x800.png",
+      "PackagePath": "staticwebassets\\img\\600x800.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\700x800.png",
+      "PackagePath": "staticwebassets\\img\\700x800.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x1000.png",
+      "PackagePath": "staticwebassets\\img\\800x1000.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x600.jpg",
+      "PackagePath": "staticwebassets\\img\\800x600.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x600.png",
+      "PackagePath": "staticwebassets\\img\\800x600.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x700.png",
+      "PackagePath": "staticwebassets\\img\\800x700.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x800.jpg",
+      "PackagePath": "staticwebassets\\img\\800x800.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x800.png",
+      "PackagePath": "staticwebassets\\img\\800x800.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x900-2.png",
+      "PackagePath": "staticwebassets\\img\\800x900-2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\800x900.png",
+      "PackagePath": "staticwebassets\\img\\800x900.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\aboutfood1.jpg",
+      "PackagePath": "staticwebassets\\img\\aboutfood1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\aboutfood2.jpg",
+      "PackagePath": "staticwebassets\\img\\aboutfood2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\img\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\brand\\1.png",
+      "PackagePath": "staticwebassets\\img\\brand\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\brand\\2.png",
+      "PackagePath": "staticwebassets\\img\\brand\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\brand\\3.png",
+      "PackagePath": "staticwebassets\\img\\brand\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\brand\\4.png",
+      "PackagePath": "staticwebassets\\img\\brand\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\brand\\5.png",
+      "PackagePath": "staticwebassets\\img\\brand\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\chefman.jpg",
+      "PackagePath": "staticwebassets\\img\\chefman.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\chickensand.jpg",
+      "PackagePath": "staticwebassets\\img\\chickensand.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\error.gif",
+      "PackagePath": "staticwebassets\\img\\error.gif"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\homestock.jpg",
+      "PackagePath": "staticwebassets\\img\\homestock.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\homestock2.jpg",
+      "PackagePath": "staticwebassets\\img\\homestock2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\1.png",
+      "PackagePath": "staticwebassets\\img\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\10.png",
+      "PackagePath": "staticwebassets\\img\\icon\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\11.png",
+      "PackagePath": "staticwebassets\\img\\icon\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\12.png",
+      "PackagePath": "staticwebassets\\img\\icon\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\13.png",
+      "PackagePath": "staticwebassets\\img\\icon\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\14.png",
+      "PackagePath": "staticwebassets\\img\\icon\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\15.png",
+      "PackagePath": "staticwebassets\\img\\icon\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\16.png",
+      "PackagePath": "staticwebassets\\img\\icon\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\17.png",
+      "PackagePath": "staticwebassets\\img\\icon\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\18.png",
+      "PackagePath": "staticwebassets\\img\\icon\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\19.png",
+      "PackagePath": "staticwebassets\\img\\icon\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\2.png",
+      "PackagePath": "staticwebassets\\img\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\20.png",
+      "PackagePath": "staticwebassets\\img\\icon\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\3.png",
+      "PackagePath": "staticwebassets\\img\\icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\4.png",
+      "PackagePath": "staticwebassets\\img\\icon\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\5.png",
+      "PackagePath": "staticwebassets\\img\\icon\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\6.png",
+      "PackagePath": "staticwebassets\\img\\icon\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\7.png",
+      "PackagePath": "staticwebassets\\img\\icon\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\8.png",
+      "PackagePath": "staticwebassets\\img\\icon\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\9.png",
+      "PackagePath": "staticwebassets\\img\\icon\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\email.png",
+      "PackagePath": "staticwebassets\\img\\icon\\email.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\flag.png",
+      "PackagePath": "staticwebassets\\img\\icon\\flag.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\phone.png",
+      "PackagePath": "staticwebassets\\img\\icon\\phone.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\icon\\placeholder.png",
+      "PackagePath": "staticwebassets\\img\\icon\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\1.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\1.webp",
+      "PackagePath": "staticwebassets\\img\\illustration\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\10.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\11.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\12.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\13.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\14.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\15.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\16.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\17.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\18.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\2.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\3.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\4.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\5.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\6.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\7.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\8.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\9.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\illustration\\chef.png",
+      "PackagePath": "staticwebassets\\img\\illustration\\chef.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\logo-2.png",
+      "PackagePath": "staticwebassets\\img\\logo-2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\logo-3.png",
+      "PackagePath": "staticwebassets\\img\\logo-3.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\logo-icon.png",
+      "PackagePath": "staticwebassets\\img\\logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\logo-ligh-solid.png",
+      "PackagePath": "staticwebassets\\img\\logo-ligh-solid.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\logo-light.png",
+      "PackagePath": "staticwebassets\\img\\logo-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\restraunt.jpg",
+      "PackagePath": "staticwebassets\\img\\restraunt.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\salmon.jpg",
+      "PackagePath": "staticwebassets\\img\\salmon.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\1.png",
+      "PackagePath": "staticwebassets\\img\\shape\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\10.png",
+      "PackagePath": "staticwebassets\\img\\shape\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\11.png",
+      "PackagePath": "staticwebassets\\img\\shape\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\12.png",
+      "PackagePath": "staticwebassets\\img\\shape\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\13.png",
+      "PackagePath": "staticwebassets\\img\\shape\\13.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\14.png",
+      "PackagePath": "staticwebassets\\img\\shape\\14.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\15.png",
+      "PackagePath": "staticwebassets\\img\\shape\\15.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\16-light.png",
+      "PackagePath": "staticwebassets\\img\\shape\\16-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\16.png",
+      "PackagePath": "staticwebassets\\img\\shape\\16.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\17-2.png",
+      "PackagePath": "staticwebassets\\img\\shape\\17-2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\17.png",
+      "PackagePath": "staticwebassets\\img\\shape\\17.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\18-2.png",
+      "PackagePath": "staticwebassets\\img\\shape\\18-2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\18.png",
+      "PackagePath": "staticwebassets\\img\\shape\\18.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\19.png",
+      "PackagePath": "staticwebassets\\img\\shape\\19.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\2.jpg",
+      "PackagePath": "staticwebassets\\img\\shape\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\2.png",
+      "PackagePath": "staticwebassets\\img\\shape\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\20.png",
+      "PackagePath": "staticwebassets\\img\\shape\\20.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\21.png",
+      "PackagePath": "staticwebassets\\img\\shape\\21.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\22.png",
+      "PackagePath": "staticwebassets\\img\\shape\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\3-dark.png",
+      "PackagePath": "staticwebassets\\img\\shape\\3-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\3-light.png",
+      "PackagePath": "staticwebassets\\img\\shape\\3-light.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\3.png",
+      "PackagePath": "staticwebassets\\img\\shape\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\4-dark.png",
+      "PackagePath": "staticwebassets\\img\\shape\\4-dark.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\4.jpg",
+      "PackagePath": "staticwebassets\\img\\shape\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\4.png",
+      "PackagePath": "staticwebassets\\img\\shape\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\44-left.png",
+      "PackagePath": "staticwebassets\\img\\shape\\44-left.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\44-right.png",
+      "PackagePath": "staticwebassets\\img\\shape\\44-right.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\5.png",
+      "PackagePath": "staticwebassets\\img\\shape\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\6.png",
+      "PackagePath": "staticwebassets\\img\\shape\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\7.png",
+      "PackagePath": "staticwebassets\\img\\shape\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\8-alt.png",
+      "PackagePath": "staticwebassets\\img\\shape\\8-alt.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\8.png",
+      "PackagePath": "staticwebassets\\img\\shape\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\9.png",
+      "PackagePath": "staticwebassets\\img\\shape\\9.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\Arrow.svg",
+      "PackagePath": "staticwebassets\\img\\shape\\Arrow.svg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\Frame.png",
+      "PackagePath": "staticwebassets\\img\\shape\\Frame.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\Shape.png",
+      "PackagePath": "staticwebassets\\img\\shape\\Shape.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\Subtittle shape 1.png",
+      "PackagePath": "staticwebassets\\img\\shape\\Subtittle shape 1.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\Subtittle shape 2.png",
+      "PackagePath": "staticwebassets\\img\\shape\\Subtittle shape 2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\brush.png",
+      "PackagePath": "staticwebassets\\img\\shape\\brush.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\fire.png",
+      "PackagePath": "staticwebassets\\img\\shape\\fire.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\map-2.png",
+      "PackagePath": "staticwebassets\\img\\shape\\map-2.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\map.png",
+      "PackagePath": "staticwebassets\\img\\shape\\map.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\quote-big.png",
+      "PackagePath": "staticwebassets\\img\\shape\\quote-big.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\signeture.png",
+      "PackagePath": "staticwebassets\\img\\shape\\signeture.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shape\\smoke.png",
+      "PackagePath": "staticwebassets\\img\\shape\\smoke.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\1.png",
+      "PackagePath": "staticwebassets\\img\\shop\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\3.png",
+      "PackagePath": "staticwebassets\\img\\shop\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\4.png",
+      "PackagePath": "staticwebassets\\img\\shop\\4.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\5.png",
+      "PackagePath": "staticwebassets\\img\\shop\\5.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\6.png",
+      "PackagePath": "staticwebassets\\img\\shop\\6.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\7.png",
+      "PackagePath": "staticwebassets\\img\\shop\\7.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\8.png",
+      "PackagePath": "staticwebassets\\img\\shop\\8.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\burger.png",
+      "PackagePath": "staticwebassets\\img\\shop\\burger.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\chicken-nuggets.png",
+      "PackagePath": "staticwebassets\\img\\shop\\chicken-nuggets.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\french-fries.png",
+      "PackagePath": "staticwebassets\\img\\shop\\french-fries.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\fried-chicekn.png",
+      "PackagePath": "staticwebassets\\img\\shop\\fried-chicekn.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\margherita-pizza.jpg",
+      "PackagePath": "staticwebassets\\img\\shop\\margherita-pizza.jpg"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\shop\\salad.png",
+      "PackagePath": "staticwebassets\\img\\shop\\salad.png"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\img\\success.gif",
+      "PackagePath": "staticwebassets\\img\\success.gif"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\ScrollOnReveal.js",
+      "PackagePath": "staticwebassets\\js\\ScrollOnReveal.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\js\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\SplitText.min.js",
+      "PackagePath": "staticwebassets\\js\\SplitText.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\TweenMax.min.js",
+      "PackagePath": "staticwebassets\\js\\TweenMax.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\YTPlayer.min.js",
+      "PackagePath": "staticwebassets\\js\\YTPlayer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\circle-progress.js",
+      "PackagePath": "staticwebassets\\js\\circle-progress.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\count-to.js",
+      "PackagePath": "staticwebassets\\js\\count-to.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\gsap.js",
+      "PackagePath": "staticwebassets\\js\\gsap.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\horizontal-accordion-init.js",
+      "PackagePath": "staticwebassets\\js\\horizontal-accordion-init.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\horizontal-scroll.js",
+      "PackagePath": "staticwebassets\\js\\horizontal-scroll.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\jquery-3.6.0.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.6.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\jquery.appear.js",
+      "PackagePath": "staticwebassets\\js\\jquery.appear.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\jquery.bloodforge.smoke-effect.js",
+      "PackagePath": "staticwebassets\\js\\jquery.bloodforge.smoke-effect.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\jquery.scrolla.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.scrolla.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\parallax.js",
+      "PackagePath": "staticwebassets\\js\\parallax.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\progress-bar.min.js",
+      "PackagePath": "staticwebassets\\js\\progress-bar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\wwwroot\\js\\validnavs.js",
+      "PackagePath": "staticwebassets\\js\\validnavs.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.restan.props",
+      "PackagePath": "build\\restan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.restan.props",
+      "PackagePath": "buildMultiTargeting\\restan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.restan.props",
+      "PackagePath": "buildTransitive\\restan.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.restan.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

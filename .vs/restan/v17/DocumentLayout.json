@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rehim\\source\\repos\\restan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|c:\\users\\rehim\\source\\repos\\restan\\restan\\migrations\\20240913072905_appusertablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|solutionrelative:restan\\migrations\\20240913072905_appusertablescreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|C:\\Users\\rehim\\source\\repos\\restan\\restan\\migrations\\20240913054919_createedreservationtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|solutionrelative:restan\\migrations\\20240913054919_createedreservationtables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|C:\\Users\\rehim\\source\\repos\\restan\\restan\\data\\mealcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|solutionrelative:restan\\data\\mealcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|C:\\Users\\rehim\\source\\repos\\restan\\restan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|solutionrelative:restan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|C:\\Users\\rehim\\source\\repos\\restan\\restan\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4774919-F1F0-4EB2-9FF6-C5CF85F549B7}|restan\\restan.csproj|solutionrelative:restan\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240913072905_AppUserTablesCreated.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Migrations\\20240913072905_AppUserTablesCreated.cs",
+              "RelativeDocumentMoniker": "restan\\Migrations\\20240913072905_AppUserTablesCreated.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Migrations\\20240913072905_AppUserTablesCreated.cs",
+              "RelativeToolTip": "restan\\Migrations\\20240913072905_AppUserTablesCreated.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:07:30.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240913054919_CreateedReservationTables.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Migrations\\20240913054919_CreateedReservationTables.cs",
+              "RelativeDocumentMoniker": "restan\\Migrations\\20240913054919_CreateedReservationTables.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Migrations\\20240913054919_CreateedReservationTables.cs",
+              "RelativeToolTip": "restan\\Migrations\\20240913054919_CreateedReservationTables.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:07:26.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MealContext.cs",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Data\\MealContext.cs",
+              "RelativeDocumentMoniker": "restan\\Data\\MealContext.cs",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Data\\MealContext.cs",
+              "RelativeToolTip": "restan\\Data\\MealContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:07:20.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "restan\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "restan\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:47:57.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "restan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\rehim\\source\\repos\\restan\\restan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "restan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAlwIMAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-18T06:43:50.532Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
